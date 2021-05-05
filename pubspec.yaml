@@ -1,0 +1,13 @@
+name: get_localekeys
+description: Get Localekeys
+version: 0.0.1
+author: Khaydarov Abdulaminkhon
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  args: ^2.1.0
+  path: ^1.8.0
+  pretty_json: ^2.0.0
+
